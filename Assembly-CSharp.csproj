@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/StaggeredGrid.cs" />
      <Compile Include="Assets/Fluid.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/griffin/Unity/Hub/Editor/2021.3.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
